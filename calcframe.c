@@ -36,7 +36,4 @@ void	ft_calc_frame(char **m, int n)
 
 int	ft_chk_frame(char **m, char **m42, int n)
 {
-	if (c == 2 && m[f][c] == (n - 3 + '0'))
-				m[f][0] = 1;
-		
 }
